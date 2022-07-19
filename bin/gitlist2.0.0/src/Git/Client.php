@@ -48,7 +48,7 @@ class Client extends BaseClient
              // Use "+" to preserve keys, only a problem with numeric repos.
             $allRepositories = $allRepositories + $repositories;*/
             
-            // START Neard edit
+            // START Bearsampp edit
             $name = str_replace(':', '', str_replace('/', '#', $path));
             $repositories[$name] = array(
                 'name' => $name,
@@ -57,7 +57,7 @@ class Client extends BaseClient
             );
             
             $allRepositories = array_merge($allRepositories, $repositories);
-            // END Neard edit
+            // END Bearsampp edit
         }
 
         $allRepositories = array_unique($allRepositories, SORT_REGULAR);
