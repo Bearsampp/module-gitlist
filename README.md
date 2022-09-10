@@ -12,3 +12,14 @@ https://bearsampp.com/module/gitlist
 ## Issues
 
 Issues must be reported on [Bearsampp repository](https://github.com/bearsampp/bearsampp/issues).
+
+
+## Sponsors
+
+We would like to thank our sponsors to the project:
+
+[N6REJ](https://github.com/N6REJ)<br />
+
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="80">
+
+[![Code Shelter](https://www.codeshelter.co/static/badges/badge-flat.svg)](https://www.codeshelter.co/)
